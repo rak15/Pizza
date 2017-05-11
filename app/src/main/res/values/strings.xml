@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_create_order">Create Order</string>
+    <string name="orderActivity">Order Activity</string>
+    <string name="action_share">Share</string>
+    <string name="top_fragment">We offer a range of freshly baked pizza</string>
+    <string-array name="pizza">
+        <item>Veg Pizza</item>
+        <item>NonVeg Pizza</item>
+        <item>Paneer Pizza</item>
+        <item>Big Pizza</item>
+        <item>Chocolate Pizza</item>
+        <item>Spicy Pizza</item>
+        <item>Chicken Pizza</item>
+        <item>Extra Cheese Pizza</item>
+        <item>Plain Pizza</item>
+    </string-array>
+    <string-array name="pasta">
+        <item>Veg Pasta</item>
+        <item>NonVeg Pasta</item>
+    </string-array>
+    <string-array name="stores">
+        <item>Pizza Hut</item>
+        <item>Dominos</item>
+    </string-array>
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Pizzas</item>
+        <item>Pasta</item>
+        <item>Stores</item>
+    </string-array>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
